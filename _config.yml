@@ -21,7 +21,7 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/mario-rosas-443726187/
 
-- name: Natalia Sanchez
+- name: Ulises Otero
   pic: Natalia.jpeg
   position: Coder
   social:
@@ -32,7 +32,7 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/natalia-s-ba061810a/
 
-- name: Maricarmen Salas
+- name: Uriel Sánchez
   pic: Maricarmen.jpeg
   position: Designer/Writer
   social:
@@ -43,7 +43,52 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/maricarmen-salas-1922571a2/
 
-- name: Andrea Garibay
+- name: Daniela Otero
+  pic: Andrea.png
+  position: Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/andrea-garibay-965893128/detail/photo/
+
+
+- name: Esmeralda Otero
+  pic: Andrea.png
+  position: Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/andrea-garibay-965893128/detail/photo/
+
+- name: Isaac Otero
+  pic: Andrea.png
+  position: Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/andrea-garibay-965893128/detail/photo/
+
+- name: Monserrat Otero
+  pic: Andrea.png
+  position: Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/andrea-garibay-965893128/detail/photo/
+
+- name: Ximena Otero
   pic: Andrea.png
   position: Designer
   social:
