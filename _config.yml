@@ -55,51 +55,6 @@ people:
       url: https://www.linkedin.com/in/andrea-garibay-965893128/detail/photo/
 
 
-- name: Esmeralda Otero
-  pic: Andrea.png
-  position: Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: https://www.linkedin.com/in/andrea-garibay-965893128/detail/photo/
-
-- name: Isaac Otero
-  pic: Andrea.png
-  position: Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: https://www.linkedin.com/in/andrea-garibay-965893128/detail/photo/
-
-- name: Monserrat Otero
-  pic: Andrea.png
-  position: Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: https://www.linkedin.com/in/andrea-garibay-965893128/detail/photo/
-
-- name: Ximena Otero
-  pic: Andrea.png
-  position: Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: https://www.linkedin.com/in/andrea-garibay-965893128/detail/photo/
-
-
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
 #   - title: twitter
